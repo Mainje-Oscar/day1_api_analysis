@@ -1,6 +1,5 @@
 """
-Day 1 - API Data Analysis Using Python Structures
-Squad Python Specialization - Data Science, AI & Analytics
+API Data Analysis Using Python Structures
 """
 import json
 from pathlib import Path
