@@ -12,7 +12,7 @@ The project is managed using **uv** to ensure that it is reproducable and is imp
 3. **Aggregations:** Analyzed customer segments first using pure Python data structures to establish references before conversion into a Pandas DataFrame.
 4. **Tools used:** Used `uv` to automatically handle isolated virtual environments and eliminate manual activation steps.
 
-## Project Structure & Deep Nesting
+## Project Structure
 The data pipeline maps down several layers of dictionaries.
 
 * `customer_record['address']` (Dictionary)
