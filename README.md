@@ -1,4 +1,4 @@
-# Day 1: API Data Analysis Using Python Structures
+# API Data Analysis Using Python Structures
 
 This project is a data analysis pipeline developed for **Pesa Pulse**, a Nairobi-based fintech start-up. 
 It pulls customer profile data from an API, explores its structure, flattens various fields in the data, 
